@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background:url(C:\Users\ELCOT\Desktop\portfolio\images\w3.jpg);
+    background:url(w3.jpg);
     background-position:center;
     background-size:cover;
     height: 100vh;
@@ -25,8 +25,8 @@
 .navbar .logo{
     width: 160px;
     cursor: pointer;
-    margin-top: -3%;
-    margin-left: -2%;
+    margin-top: 8%;
+    margin-left: 2%;
 }
 ul{
     margin-top: -4%;
